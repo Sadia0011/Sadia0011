@@ -1,4 +1,4 @@
-![logo](https://github.com/Sadia0011/Sadia0011/blob/main/banner%20purple.png)
+![logo](https://github.com/Sadia0011/Sadia0011/blob/main/gray%20banner.png)
 
 <h1 align="center">Hi 👋, I'm Syeda Sadia Sultana</h1>
 <h3 align="center">An impassioned Frontend Developer hailing from the vibrant landscapes of Bangladesh, weaving digital wonders with code and creativity. 🚀✨</h3>
